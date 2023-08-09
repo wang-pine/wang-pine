@@ -36,6 +36,19 @@
 <p>持续学习中...</br>随时更新知识储备</p>
 
 <h3>开源项目</h3>
-|Titles|Description|
-|----|----|
-|[超市积分抽奖系统](https://github.com/wang-pine/points-lottery)|使用Qt和c++进行开发的超市积分抽奖系统，实现了购物获取积分，积分用于抽奖，管理员可以对商品，奖池以及用户进行管理，用户可以注册，购物，抽奖等功能|
+<table>
+  <thead>
+    <tr>
+      <th>Titles</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[超市积分抽奖系统](https://github.com/wang-pine/points-lottery)</td>
+      <td>使用Qt和c++进行开发的超市积分抽奖系统，实现了购物获取积分，积分用于抽奖，管理员可以对商品，奖池以及用户进行管理，用户可以注册，购物，抽奖等功能</td>
+    </tr>
+
+  </tbody>
+</table>
+<table>
