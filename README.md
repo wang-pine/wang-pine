@@ -32,7 +32,9 @@
 <code><img height = "20" src = "logo/vscode.jpg"></code>
 <code><img height = "20" src = "logo/jetbrain.jpg"></code>
 <code><img height = "20" src = "logo/linux.jpg"></code>
+<code><img height = "20" src = "logo/mysql.jpg"></code>
 <code><img height = "20" src = "logo/matlab.jpg"></code>
+
 <p>持续学习中...</br>随时更新知识储备</p>
 
 <h3>开源项目</h3>
