@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://www.github.com/wang-pine" class = "rich-diff-level-one">
-        <img src = https://github-readme-stats.vercel.app/api?username=wang-pine>
+        <img src = https://github-readme-stats-sigma-five.vercel.app/api?username=wang-pine>
     </a>
 </p>
 <img align="right"  src="pic/learn.png" width="100">
