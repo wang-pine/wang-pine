@@ -14,26 +14,26 @@
 
 **语言|Languages**
 
-`<code><img height = "20" src = "logo/cpp.jpg">``</code>`
-`<code><img height = "20" src = "logo/python.jpg">``</code>`
-`<code><img height = "20" src = "logo/html.png">``</code>`
-`<code><img height = "20" src = "logo/java.jpg">``</code>`
-`<code><img height = "20" src = "logo/go.jpg">``</code>`
+<code><img height = "20" src = "logo/cpp.jpg"></code>
+<code><img height = "20" src = "logo/python.jpg"></code>
+<code><img height = "20" src = "logo/html.png"></code>
+<code><img height = "20" src = "logo/java.jpg"></code>
+<code><img height = "20" src = "logo/go.jpg"></code>
 
 **框架|Framework**
 
-`<code><img height = "20" src = "logo/gin.png">``</code>`
-`<code><img height = "20" src = "logo/opencv.jpg">``</code>`
-`<code><img height = "20" src = "logo/qt.jpg">``</code>`
+<code><img height = "20" src = "logo/gin.png"></code>
+<code><img height = "20" src = "logo/opencv.jpg"></code>
+<code><img height = "20" src = "logo/qt.jpg"></code>
 
 **工具|Tools**
 
-`<code><img height = "20" src = "logo/vim.jpg">``</code>`
-`<code><img height = "20" src = "logo/vscode.jpg">``</code>`
-`<code><img height = "20" src = "logo/jetbrain.jpg">``</code>`
-`<code><img height = "20" src = "logo/linux.jpg">``</code>`
-`<code><img height = "20" src = "logo/mysql.jpg">``</code>`
-`<code><img height = "20" src = "logo/matlab.jpg">``</code>`
+<code><img height = "20" src = "logo/vim.jpg"></code>
+<code><img height = "20" src = "logo/vscode.jpg"></code>
+<code><img height = "20" src = "logo/jetbrain.jpg"></code>
+<code><img height = "20" src = "logo/linux.jpg"></code>
+<code><img height = "20" src = "logo/mysql.jpg"></code>
+<code><img height = "20" src = "logo/matlab.jpg"></code>
 
 <p>持续学习中...</br>随时更新知识储备</p>
 
