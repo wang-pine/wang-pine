@@ -25,6 +25,7 @@
 <code><img height = "20" src = "logo/gin.png"></code>
 <code><img height = "20" src = "logo/opencv.jpg"></code>
 <code><img height = "20" src = "logo/qt.jpg"></code>
+<code><img height = "20" src = "logo/hmos.png"></code>
 
 **工具|Tools**
 
