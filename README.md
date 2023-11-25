@@ -66,3 +66,12 @@
         <td>使用了go语言进行开发的极简版抖音的服务端，实现了极简版抖音的全部功能，包括视频流，关注，上传，聊天，点赞，评论等功能
         </td>
 </tr>
+<tr>
+        <td>
+        <a href = "https://github.com/wang-pine/HarmonyChatServer--py">
+            极简版聊天服务器(python版本)
+        </a>
+        </td>
+        <td>使用flask框架开发的极简版聊天软件的服务器，功能简单，满足基本使用，大部分功能已用golang重写
+        </td>
+</tr>
