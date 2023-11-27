@@ -6,6 +6,11 @@
         <img src = https://github-readme-stats-sigma-five.vercel.app/api?username=wang-pine>
     </a>
 </p>
+<p align="center">
+             Commits Count: <br>
+            <img src="pic/wang-pine.svg" />
+</p>
+
 <img align="right"  src="pic/learn.png" width="100">
 <p>如您所见，我是一个大学生，目前主要精力在学习上，参与的开源项目是比较少的，但是请放心，我会持续努力的😁</p>
 </br>
