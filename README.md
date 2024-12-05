@@ -49,6 +49,7 @@
   <thead>
     <tr>
       <th>Titles</th>
+<th>TechStack</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -59,6 +60,9 @@
             超市积分抽奖系统
         </a>
         </td>
+        <td>
+        Qt,c++
+        </td>
         <td>使用Qt和c++进行开发的超市积分抽奖系统，实现了购物获取积分，积分用于抽奖，管理员可以对商品，奖池以及用户进行管理，用户可以注册，购物，抽奖等功能
         </td>
 </tr>
@@ -67,6 +71,9 @@
         <a href = "https://github.com/wang-pine/GoItem">
             极简版抖音服务端
         </a>
+        <td>
+        go,mysql,redis
+        </td>
         </td>
         <td>使用了go语言进行开发的极简版抖音的服务端，实现了极简版抖音的全部功能，包括视频流，关注，上传，聊天，点赞，评论等功能
         </td>
@@ -76,6 +83,9 @@
         <a href = "https://github.com/wang-pine/HarmonyChatServer--py">
             极简版聊天服务器(python版本)
         </a>
+        </td>
+        <td>
+        python,flask
         </td>
         <td>使用flask框架开发的极简版聊天软件的服务器，功能简单，满足基本使用，大部分功能已用golang重写
         </td>
