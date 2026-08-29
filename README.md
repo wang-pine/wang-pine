@@ -1,92 +1,83 @@
-<h1 align="center"> HELLO😊,I'm wang-pine</h1>
-<p>这里是wang-pine的主页</br>世界这么大，相遇即是缘</p>
+<div align="right">
+
+**简体中文** | [English](./README_EN.md)
+
+</div>
+
+<h1 align="center">Hi 👋，我是 Pine</h1>
 
 <p align="center">
-    <a href="https://www.github.com/wang-pine" class = "rich-diff-level-one">
-        <img src = https://github-readme-stats-sigma-five.vercel.app/api?username=wang-pine>
-    </a>
+  <b>C++ / Go · 音视频 · 网络 · AI Agent</b>
 </p>
+
 <p align="center">
-             Commits Count: <br>
-            <img src="pic/wang-pine.svg" />
+  喜欢理解复杂系统的工作方式，也喜欢把工程问题真正跑通、测准并解决。
 </p>
 
-<img align="right"  src="pic/learn.png" width="100">
-<p>如您所见，我是一个大学生，目前主要精力在学习上，参与的开源项目是比较少的，但是请放心，我会持续努力的😁</p>
-</br>
-<h2 align="center">个人简介</h2>
-<h3>技术栈</h3>
+---
 
-**语言|Languages**
+## 👨‍💻 关于我
 
-<code><img height = "20" src = "logo/cpp.jpg"></code>
-<code><img height = "20" src = "logo/python.jpg"></code>
-<code><img height = "20" src = "logo/html.png"></code>
-<code><img height = "20" src = "logo/java.jpg"></code>
-<code><img height = "20" src = "logo/go.jpg"></code>
+目前主要使用 **C++ / Go** 进行开发，同时使用 Python、TypeScript 完成工程工具、自动化以及快速验证。
 
-**框架|Framework**
+我的主要技术方向包括：
 
-<code><img height = "20" src = "logo/gin.png"></code>
-<code><img height = "20" src = "logo/opencv.jpg"></code>
-<code><img height = "20" src = "logo/qt.jpg"></code>
-<code><img height = "20" src = "logo/hmos.png"></code>
+* 🎬 **实时音视频与媒体系统**
+* 🌐 **网络协议、网络传输与性能分析**
+* ⚙️ **系统架构、性能优化与 Debug**
+* 🤖 **AI Agent、MCP 与 Agent Runtime**
+* 🐧 **Linux 与工程基础设施**
 
-**工具|Tools**
+相比单纯实现一个功能，我更关注系统背后的行为：
 
-<code><img height = "20" src = "logo/vim.jpg"></code>
-<code><img height = "20" src = "logo/vscode.jpg"></code>
-<code><img height = "20" src = "logo/jetbrain.jpg"></code>
-<code><img height = "20" src = "logo/linux.jpg"></code>
-<code><img height = "20" src = "logo/mysql.jpg"></code>
-<code><img height = "20" src = "logo/matlab.jpg"></code>
-<code><img height = "20" src = "logo/cmake.png"></code>
+> **它为什么这样工作？瓶颈在哪里？异常情况下会发生什么？如何证明优化真的有效？**
 
-<p>持续学习中...</br>随时更新知识储备</p>
+我喜欢从协议、数据流、运行时和系统边界出发理解问题，并尽可能把复杂实现收敛成简单、可靠、可观测、可调试的工程系统。
 
-<h3>开源项目</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Titles</th>
-<th>TechStack</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-<tr>
-        <td>
-        <a href = "https://github.com/wang-pine/points-lottery">
-            超市积分抽奖系统
-        </a>
-        </td>
-        <td>
-        Qt,c++
-        </td>
-        <td>使用Qt和c++进行开发的超市积分抽奖系统，实现了购物获取积分，积分用于抽奖，管理员可以对商品，奖池以及用户进行管理，用户可以注册，购物，抽奖等功能
-        </td>
-</tr>
-<tr>
-        <td>
-        <a href = "https://github.com/wang-pine/GoItem">
-            极简版抖音服务端
-        </a>
-        <td>
-        go,mysql,redis
-        </td>
-        </td>
-        <td>使用了go语言进行开发的极简版抖音的服务端，实现了极简版抖音的全部功能，包括视频流，关注，上传，聊天，点赞，评论等功能
-        </td>
-</tr>
-<tr>
-        <td>
-        <a href = "https://github.com/wang-pine/HarmonyChatServer--py">
-            极简版聊天服务器(python版本)
-        </a>
-        </td>
-        <td>
-        python,flask
-        </td>
-        <td>使用flask框架开发的极简版聊天软件的服务器，功能简单，满足基本使用，大部分功能已用golang重写
-        </td>
-</tr>
+---
+
+## 🧰 技术栈
+
+### Languages
+
+`C++` · `Go` · `Python` · `TypeScript`
+
+### Multimedia
+
+`FFmpeg` · `WebRTC` · `RTP / RTCP` · `ES / PS / TS` · `Media Pipeline`
+
+### Networking
+
+`TCP / UDP` · `WebSocket` · `Network Diagnostics` · `Transport Analysis`
+
+### AI / Agent
+
+`Agent Runtime` · `Tool Use` · `MCP` · `Claude Code` · `LLM Application`
+
+### Engineering
+
+`Linux` · `CMake` · `Git` · `Performance Optimization` · `Debugging`
+
+---
+
+## 🔭 当前关注
+
+```text
+Realtime Multimedia
+        ↓
+Network & Transport
+        ↓
+Performance & Debugging
+        ↓
+System Architecture
+        ↓
+AI Agent Runtime
+```
+
+目前尤其关注 **实时音视频、网络传输、性能工程以及 AI Agent 基础设施**。
+
+---
+
+<p align="center">
+  <i>Build it. Measure it. Understand it.</i>
+</p>
